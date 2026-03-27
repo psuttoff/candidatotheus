@@ -143,8 +143,11 @@ button:hover {
 
 @media (max-width: 600px) {
     .card {
-        flex: 0 0 50%;
-        max-width: 50%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .card img {
         height: auto;
         max-height: 250px;
     }
