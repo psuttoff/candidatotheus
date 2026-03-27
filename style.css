@@ -93,7 +93,7 @@ h2 {
 /* CONTEÚDO */
 .card-content {
     padding: 20px;
-    text-align: center;
+    items-align: center;
     width: 100%;
 }
 
